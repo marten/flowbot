@@ -1,0 +1,5 @@
+%{"eflowdock": {:git, "git://github.com/0xAX/eflowdock.git", "fdb1b19f170dc8a83c908ae958396916ca89d417", []},
+  "exirc": {:hex, :exirc, "0.9.1"},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "9b8b042fb7d37b90994ef6b6615c92dd2769328e", [ref: "v4.0.1"]},
+  "lager": {:git, "git://github.com/basho/lager.git", "d8ad5eb64a6dda296d8706aa2cd664a4a84e8129", [tag: "1.2.1"]},
+  "mochijson2": {:git, "git://github.com/bjnortier/mochijson2.git", "e162b7f5be57b8a1fcf5cc99aa4948864af42bba", [ref: "master"]}}
